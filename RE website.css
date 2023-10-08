@@ -1,0 +1,145 @@
+#cardsection{
+    background-color: black;
+    color: aliceblue;
+}
+#cardsection #news{
+    text-align: center;
+    
+}
+#cardsection #news h1{
+font-size: 25px;
+padding-top: 15px;
+padding-bottom: 10px;
+}
+#cardsection #cards{
+    display: flex;
+}
+#cardsection #cards div{
+    width: 25%;
+    height: 280px;
+    overflow: hidden;
+}
+#cardsection #cards div img{
+    width: 100%;
+}
+
+#cardsection #cards div p{
+    position: relative;
+    top: -65px;
+    padding-left: 20px;
+    font-weight: 600;
+}
+#cardsection #cards div img:hover{
+    transform: scale(1.2);
+    transition: 2s;
+}
+#headersection1{
+    background-color: #212121;
+    color: white;
+    font-weight: 700;;
+    padding-top:10px ;
+    padding-bottom:1px ;
+}
+#headersection1 ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style-type: none;
+}
+.super:hover{
+    color: red;
+}
+#headersection2{
+    background-color: #212121;
+    color: white;
+    font-weight: 500;;
+    padding-top:10px ;
+    padding-bottom:1px ;
+}
+#headersection2 ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style-type: none;
+    font-weight: 400;
+}
+.super2:hover{
+    color: red;
+}
+
+#headersection3{
+    background-color: #212121;
+    color: white;
+    font-weight: 500;;
+    padding-top:10px ;
+    padding-bottom:1px ;
+}
+#headersection3 ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style-type: none;
+    font-weight: 400;
+}
+.super3:hover{
+    color: red;
+}
+
+#headersection4{
+    background-color: #212121;
+    color: white;
+    font-weight: 500;;
+    padding-top:10px ;
+    padding-bottom:1px ;
+}
+#headersection4 ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style-type: none;
+    font-weight: 400;
+}
+.super4:hover{
+    color: red;
+}
+
+#headersection5{
+    background-color: #212121;
+    color: white;
+    font-weight: 500;;
+    padding-top:10px ;
+    padding-bottom:1px ;
+}
+#headersection5 ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style-type: none;
+    font-weight: 400;
+}
+.super5:hover{
+    color: red;
+}
+
+#downcards{
+    background-color: black;
+    color: aliceblue;
+}
+#downcards #tags{
+    text-align: center;
+}
+#downcards #tags h1{
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;  
+}
+#downcards .k{
+    display: flex;
+}
+
+#login{
+    text-decoration: none;
+    color: white;
+    padding-top: 8px;
+    margin-left: 180px;
+}
